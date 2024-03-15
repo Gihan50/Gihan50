@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gihan</h1>
+<h1 align="center">Hi 👋, I'm Gihan</h1><br>
+
 - 👀 I’m interested in web development
 - 🌱 I’m currently working ...
 - 💞️ I’m looking to collaborate on ...
